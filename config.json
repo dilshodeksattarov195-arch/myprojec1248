@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesrocess",
+        "uuid": 7874880,
+        "checksum": "5gbx1k"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
